@@ -1,5 +1,5 @@
 {
-  "device": ["eprism_s04"],
+  "devices": ["eprism_s04"],
   "icon": "icon.svg",
   "name": "something",
   "description": "README.md"
