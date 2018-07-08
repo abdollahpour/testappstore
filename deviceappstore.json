@@ -1,1 +1,7 @@
-{}
+{
+  "device": ["eprism_s04"],
+  "icon": "icon.svg",
+  "name": "something",
+  "description": "README.md"
+}
+
