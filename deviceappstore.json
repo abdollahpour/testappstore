@@ -1,7 +1,11 @@
 {
   "devices": ["eprism_s04"],
   "icon": "icon.svg",
-  "name": "something",
-  "description": "README.md"
+  "name": "PayPalBox",
+  "description": "PayPalBox turn your device into a complete PayPal mobile payment terminal. You can easily connect your PayPal Merchant account to the device and when you get any payment it shows the amount on the screen and also play the audio message. Users can easily scan the qrcode on the device (with camera in iOS and third party apps on Android) to start the payment procedure on their phone.",
+  "icon": "icon.svg",
+  "screenshot": "screenshot.jpg",
+  "android": "http://something",
+  "ios": "http://something"
 }
 
